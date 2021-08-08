@@ -21,3 +21,6 @@ The Urban areas have much larger numbers of rides (1,625), much more total drive
 The line chart of Total Fare by City Type indicates that in late February and early March Urban areas have the highest total fare and have the lowest total fare at the beginning of January. As for the Suburban areas late February and late April have the highest total fare while the lowest total fare shows in early January same as the Rural areas. And the highest total fare in Rural areas shows at the beginning of April, while the lowest number shows in early January. 
 
 #### Summary: 
+1. More data is needed to understand why a much larger number of rides in urban areas versus suburban or rural areas but less average fare per ride and average fare per driver.  Such as the average distance per ride or the average number of passengers per ride will be helpful. 
+2. Since the number of drivers in the Urban areas is much more than in Suburban areas and Rural areas, the company can allocation some drivers to suburban or Rural areas if possible. 
+3. Since January is the slowest season in the Urban and Suburban area, more drivers and resources can be assigned to the Rural areas, and in early April, since the Urban area is busier than the Suburban and Rural area, more drivers and resources can be assigned to these areas.
